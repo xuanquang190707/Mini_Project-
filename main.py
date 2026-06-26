@@ -1,4 +1,4 @@
-a = int(input("Nhập a: "))
-b = int(input("Nhập b: "))
+a = 10
+b = 20
 
-print("Kết quả a + b =", a + b)
+print("Tổng =", a + b)
